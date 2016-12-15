@@ -1,4 +1,4 @@
 node {
    echo 'Hello World'
-   currentBuild.result = 'FAILURE'
+   currentBuild.result = 'SUCCESS'
 }
