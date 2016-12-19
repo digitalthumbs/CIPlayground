@@ -1,2 +1,2 @@
 # CIPlayground
-trigger push: 6
+trigger push: 8
